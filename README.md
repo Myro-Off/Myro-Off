@@ -13,17 +13,17 @@
 <p align="center">🎓 Étudiant en Bachelor Informatique à Coda Dijon | Passionné par le développement web et la programmation</p>  
 <p align="center">🪂 Les sports extrême, y'a que ça de vrai (#Saut en chute libre)</p>
 <p align="center">🐘 Actuellement en train d'apprendre le PHP !</p>
-<p align="center">🚧 Projet perso en cours : Portfolio complet (frontend + backend)</p>
+<p align="center">🚧 Projets perso en cours : Portfolio complet (frontend + backend) et Refonte totale du README que vous êtes en train de lire à venir</p>
 
 <h2 align="center">ME CONTACTER</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adam-valsan-6b908a386" target="_blank">
+  <a href="https://www.linkedin.com/in/adam-valsan-6b908a386">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/myroo-off target="_blank">
+  <a href="https://discord.com/users/myroo-off">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="52" height="44" alt="discord logo"  />
 </a>
 </div>
