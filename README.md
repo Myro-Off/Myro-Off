@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&duration=2000&pause=1000&color=36BCF7&width=550&lines=D%C3%A9veloppeur%20Full%20Stack%20en%20Devenir%20%F0%9F%92%BB;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toujours%20en%20progression%20%F0%9F%9A%80;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le%20CSS%20c%27est%20la%20vie%20%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
-###
+---
 
 <h2 align="center">À PROPOS DE MOI</h2>
 
@@ -14,6 +14,8 @@
 <p align="center">🪂 Les sports extrêmes, y'a que ça de vrai</p>
 <p align="center">🐘 Actuellement en train d'apprendre le PHP !</p>
 <p align="center">🚧 Projets perso en cours : Portfolio complet & Refonte de mon GitHub</p>
+
+---
 
 <h2 align="center">ME CONTACTER</h2>
 
@@ -26,7 +28,7 @@
     <img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-###
+---
 
 <h2 align="center">LANGAGES & OUTILS
 
@@ -48,7 +50,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
 </div>
 
-###
+---
 
 <h2 align="center">VALEURS
 
@@ -70,6 +72,6 @@
   <img src="https://img.shields.io/badge/AGILE-E67E22?style=for-the-badge&logo=jira&logoColor=white" alt="Agile">
 </div>
 
-###
+---
 
 <img src="https://github.com/user-attachments/assets/5982222f-bf1d-49fb-9186-c9eb9d9747f9" width="100%" alt="github-contribution-grid-snake-dark"/>
