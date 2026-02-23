@@ -24,8 +24,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-valsan-6b908a386">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-  <a href="mailto:adam.valsan3gmail.com">
-    <img src="https://img.shields.io/badge/Email-DAA520?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ---
