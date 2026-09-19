@@ -1,7 +1,7 @@
 <h1 align="center">Salutations jeune voyageur 👋, moi c'est Adam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&duration=2000&pause=1000&color=36BCF7&width=550&lines=D%C3%A9veloppeur%20Full%20Stack%20en%20Devenir%20%F0%9F%92%BB;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toujours%20en%20progression%20%F0%9F%9A%80;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le%20CSS%20c%27est%20la%20vie%20%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&duration=2000&pause=1000&color=36BCF7&width=550&lines=D%C3%A9veloppeur%20Full%20Stack%20en%20Devenir%20%F0%9F%92%BB;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toujours%20en%20progression%20%F0%9F%9A%80;Architectures%20robustes%20%26%20Clean%20Code%20%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,10 +10,10 @@
 
 ###
 
-<p align="center">🎓 Étudiant en Bachelor Informatique à Coda Dijon | Passionné par le développement web et la programmation</p>  
+<p align="center">🎓 Étudiant en 2ème année de Bachelor Informatique à Coda Dijon | Conception logicielle, architectures robustes et back-end</p>  
 <p align="center">🪂 Les sports extrêmes, y'a que ça de vrai</p>
-<p align="center">🐘 Actuellement en train d'apprendre le PHP !</p>
-<p align="center">🚧 Projets perso en cours : Portfolio complet & Refonte de mon GitHub</p>
+<p align="center">🏫 Actuellement en train d'apprendre les API REST !</p>
+<p align="center">🚧 Projets perso en cours et à venir : Portfolio complet et Refonte de mon GitHub</p>
 
 ---
 
@@ -37,14 +37,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/REST_API-85EA2D?logo=swagger&logoColor=black" alt="REST API">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS%20Code">
-  <img src="https://img.shields.io/badge/WebStorm-1572B6?logo=webstorm&logoColor=white" alt="WebStorm">
-  <img src="https://img.shields.io/badge/PHPStorm-1572B6?logo=phpstorm&logoColor=white" alt="PHPStorm">
+  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white" alt="JetBrains">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
 </div>
 
